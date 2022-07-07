@@ -23,7 +23,7 @@ Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/) (Optimizing due to sl
 
 ## Processed data repository
 ### RNA contigs
- Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations.
+ Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations. (Need to write about data) 
 
 Download: [RNA_Contigs](--)<br>
 #### Reference:
@@ -31,7 +31,7 @@ Download: [RNA_Contigs](--)<br>
 - Landscape of transcription in human cells, Nature, 2012<br><br>
 
 ### Conserved tissue-specific and species-specific genes
---<br>
+-- (Need to write) <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="500">
 
 Download: [Conserved gene lists](--)<br>
@@ -40,7 +40,7 @@ Download: [Conserved gene lists](--)<br>
 - Comparative transcriptomics in human and mouse, Nature Reviews Genetics, 2017<br><br>
 
 ### Chromatin states & Super-enhancer (SE)
- We deciphered the dog’s epigenetic code by defining distinct 13-chromatin state model based on five histone modification marks for 11 tissues, allowing for genome-wide, integratable data production. Then, we characterized somatic super-enhancer landscapes.<br>
+ We deciphered the dog’s epigenetic code by defining distinct 13-chromatin state model based on five histone modification marks for 11 tissues, allowing for genome-wide, integratable data production. Then, we characterized somatic super-enhancer landscapes. (Need to write and edit) <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751730-c2f1ad14-a5f7-4d4c-a861-764d6dfbb251.jpg" width="250"><br>
 <img src="https://user-images.githubusercontent.com/43947916/177108534-54b168a3-280b-49d2-8bc8-a33286eb2c8c.jpg" width="250">
 
@@ -51,7 +51,7 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 - Master Transcription Factors and Mediator Establish Super-Enhancers at Key Cell Identity Genes, Cell, 2013<br><br>
 
 ### SE domain classification and linking with gene
---<br>
+-- (Need to write)  <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751763-ebd9a6ff-5990-468b-8ec1-a0c962e5af31.jpg" width="300">
 
 Download: [SE domain-related table](https://github.com/KHworks/dog-reference-epigenome/blob/main/Scripts/Figure%206A_SE-to-gene_linking.py)<br>
