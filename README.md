@@ -57,3 +57,11 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 Download: [SE domain-related table](https://github.com/KHworks/dog-reference-epigenome/blob/main/Scripts/Figure%206A_SE-to-gene_linking.py)<br>
 #### Reference:
 - The chromatin accessibility landscape of primary human cancers, Science, 2018<br><br>
+
+### Common and tissue-specific differentially methylated regions
+-- (Need to write)  <br>
+<img src="--" width="300">
+
+Download: [SE domain-related table](--)<br>
+#### Reference:
+- --<br><br>
