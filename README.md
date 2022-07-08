@@ -1,4 +1,6 @@
-# Mapping the dog epigenome: an inter-tissue and cross-species approach
+# EpiC Dog: Epigenome Catalog of the Dog
+
+### Integrative mapping of the dog epigenome: reference annotation for comparative inter-tissue and cross-species studies
 
 Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum Nam<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,3</sup>, Jeong-Woon Lee<sup>1,2,3</sup>, Kyung-Ju Shin<sup>1,3</sup>, Su-Jin Jeong<sup>1,2,3</sup>, Keunsoo Kang<sup>4</sup>, and Je-Yoel Cho<sup>1,2,3*</sup>
 
