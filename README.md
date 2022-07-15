@@ -11,27 +11,39 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 
 <sup>†</sup> These authors contributed equally to this work as co-first authors: newhong@snu.ac.kr, borris@snu.ac.kr and arbjlvz@snu.ac.kr<br>
 <sup>*</sup> Corresponding author: jeycho@snu.ac.kr<br><br>
-<img src="https://user-images.githubusercontent.com/108702438/179194525-e3bad28c-5845-4414-819c-58cc02e421c6.png" width="1000"><br>
+<img src="https://user-images.githubusercontent.com/108702438/179219246-b79c13cb-7ca7-4de0-a1e1-56211ad574e8.jpg" width="700"><br>
 
 ## Introduction
 
 The domestic dog has become a valuable model in exploring multifaceted diseases and biology important for human health. Large-scale dog genome projects produced high-quality draft references but still lack comprehensive annotation of encoded functional elements. Through the integrative next generation sequencing of transcriptomes and chromatin accessibility paired with DNA methylome profiling of 11 adult tissue types, implemented in a cross-species approach, we generated a reference epigenome of a domesticated dog. Using genome orthologues and synthenies, we deciphered the dog’s epigenetic code by defining distinct chromatin states, allowing for genome-wide, integratable data production. We then characterized somatic super-enhancer landscapes and showed that genes mapped on these regions are associated with a broad range of biological and disease traits and are traceable to their tissue-of-origin. Ultimately, we delineated conserved epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog for comparative biology and medical research.
 
-<img src="https://user-images.githubusercontent.com/108702438/177751721-feda7f4b-272d-4750-9208-ac72c187cdb7.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/108702438/177751721-feda7f4b-272d-4750-9208-ac72c187cdb7.jpg" width="700">
 
 ## Manuscript and Data availability
 Paper (bioRxiv): https://www.biorxiv.org/<br>
 Data repository: https://www.ncbi.nlm.nih.gov/geo/<br>
-Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/) (Optimizing due to slow speed)<br><br>
+Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to slow speed)<br><br>
 
 ## Processed data repository
 ### RNA contigs
- Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations. (Need to write about data) 
+ Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations.
 
-Download: [RNA_Contigs](--)<br>
+Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bSKZrqk5fKa3UfP8JQ?usp=sharing)<br>
 #### Reference:
 - A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
 - Landscape of transcription in human cells, Nature, 2012<br><br>
+
+
+
+### Comparative inter-tissue transcriptomics
+ --
+
+Download: [Categorized gene lists](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
+#### Reference:
+- A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
+- Landscape of transcription in human cells, Nature, 2012<br><br>
+
+
 
 ### Conserved tissue-specific and species-specific genes
 -- (Need to write) <br>
@@ -41,6 +53,8 @@ Download: [Conserved gene lists](--)<br>
 #### Reference:
 - A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
 - Comparative transcriptomics in human and mouse, Nature Reviews Genetics, 2017<br><br>
+
+
 
 ### Chromatin states & Super-enhancer (SE)
  We deciphered the dog’s epigenetic code by defining distinct 13-chromatin state model based on five histone modification marks for 11 tissues, allowing for genome-wide, integratable data production. Then, we characterized somatic super-enhancer landscapes. (Need to write and edit) <br>
@@ -53,6 +67,16 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 - Integrative analysis of 111 reference human epigenomes, Nature, 2015<br>
 - Master Transcription Factors and Mediator Establish Super-Enhancers at Key Cell Identity Genes, Cell, 2013<br><br>
 
+
+
+### Common and tissue-specific differentially methylated regions
+-- (Need to write)  <br>
+<img src="--" width="300">
+#### Reference:
+- --<br><br>
+
+
+
 ### SE domain classification and linking with gene
 -- (Need to write)  <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751763-ebd9a6ff-5990-468b-8ec1-a0c962e5af31.jpg" width="300">
@@ -61,10 +85,5 @@ Download: [SE domain-related table](https://github.com/KHworks/dog-reference-epi
 #### Reference:
 - The chromatin accessibility landscape of primary human cancers, Science, 2018<br><br>
 
-### Common and tissue-specific differentially methylated regions
--- (Need to write)  <br>
-<img src="--" width="300">
-
 Download: [SE domain-related table](--)<br>
-#### Reference:
-- --<br><br>
+
