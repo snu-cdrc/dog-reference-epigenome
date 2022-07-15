@@ -38,10 +38,9 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bS
 ### 2. Comparative inter-tissue transcriptomics
 <img src="https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="600">
 
-Download: [Categorized gene lists](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
+Download: [Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
 #### Reference:
-- A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
-- Landscape of transcription in human cells, Nature, 2012<br><br>
+- Tissue-based map of the human proteome, Science, 2015<br><br>
 
 
 
