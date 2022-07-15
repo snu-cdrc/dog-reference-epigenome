@@ -10,7 +10,8 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 <sup>4</sup> Department of Microbiology, College of Natural Sciences, Dankook University, Cheonan, Korea<br>
 
 <sup>†</sup> These authors contributed equally to this work as co-first authors: newhong@snu.ac.kr, borris@snu.ac.kr and arbjlvz@snu.ac.kr<br>
-<sup>*</sup> Corresponding author: jeycho@snu.ac.kr
+<sup>*</sup> Corresponding author: jeycho@snu.ac.kr<br><br>
+<img src="https://user-images.githubusercontent.com/108702438/179194525-e3bad28c-5845-4414-819c-58cc02e421c6.png" width="1000"><br>
 
 ## Introduction
 
