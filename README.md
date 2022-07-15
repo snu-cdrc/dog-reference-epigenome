@@ -48,7 +48,7 @@ Download: [Categorized genes according to tissue specificity](https://drive.goog
 -- (Need to write) <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="600">
 
-Download: [Conserved gene lists](--)<br>
+Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1ytLAoulALwxpQ3cFyFstP7vBWlR?usp=sharing)<br>
 #### Reference:
 - A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
 - Comparative transcriptomics in human and mouse, Nature Reviews Genetics, 2017<br><br>
@@ -69,7 +69,9 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 
 
 ### 5. Common and tissue-specific differentially methylated regions
--- (Need to write)  <br>
+
 <img src="https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
+
+Download: [Location of CMRs and tsDMRs](https://drive.google.com/drive/folders/1fPqttRt1x6f8RDYpmr8edwPoZyJF_fcv?usp=sharing)
 #### Reference:
 - --<br><br>
