@@ -15,7 +15,7 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 
 ## Introduction
 
-The domestic dog has become a valuable model in exploring multifaceted diseases and biology important for human health. Large-scale dog genome projects produced high-quality draft references but still lack comprehensive annotation of encoded functional elements. Through the integrative next generation sequencing of transcriptomes and chromatin accessibility paired with DNA methylome profiling of 11 adult tissue types, implemented in a cross-species approach, we generated a reference epigenome of a domesticated dog. Using genome orthologues and synthenies, we deciphered the dog’s epigenetic code by defining distinct chromatin states, allowing for genome-wide, integratable data production. We then characterized somatic super-enhancer landscapes and showed that genes mapped on these regions are associated with a broad range of biological and disease traits and are traceable to their tissue-of-origin. Ultimately, we delineated conserved epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog for comparative biology and medical research.
+&nbsp;The domestic dog has become a valuable model in exploring multifaceted diseases and biology important for human health. Large-scale dog genome projects produced high-quality draft references but still lack comprehensive annotation of encoded functional elements. Through the integrative next generation sequencing of transcriptomes and chromatin accessibility paired with DNA methylome profiling of 11 adult tissue types, implemented in a cross-species approach, we generated a reference epigenome of a domesticated dog. Using genome orthologues and synthenies, we deciphered the dog’s epigenetic code by defining distinct chromatin states, allowing for genome-wide, integratable data production. We then characterized somatic super-enhancer landscapes and showed that genes mapped on these regions are associated with a broad range of biological and disease traits and are traceable to their tissue-of-origin. Ultimately, we delineated conserved epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog for comparative biology and medical research.
 
 <img src="https://user-images.githubusercontent.com/108702438/177751721-feda7f4b-272d-4750-9208-ac72c187cdb7.jpg" width="700">
 
@@ -26,7 +26,7 @@ Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-referenc
 
 ## Processed data repository
 ### 1. RNA contigs
- Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations.
+&nbsp;Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations.
 
 Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bSKZrqk5fKa3UfP8JQ?usp=sharing)<br>
 #### Reference:
@@ -36,7 +36,7 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bS
 
 
 ### 2. Comparative inter-tissue transcriptomics
-<br>
+&nbsp;<br>
 <img src="https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="600">
 
 Download: [Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
@@ -46,7 +46,7 @@ Download: [Categorized genes according to tissue specificity](https://drive.goog
 
 
 ### 3. Conserved tissue-specific and species-specific genes
- <br>
+&nbsp;<br>
 <img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="600">
 
 Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1ytLAoulALwxpQ3cFyFstP7vBWlR?usp=sharing)<br>
@@ -57,7 +57,7 @@ Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1yt
 
 
 ### 4. Chromatin states & Super-enhancer (SE)
-We deciphered the dog’s epigenetic code by defining distinct 13-chromatin state model based on five histone modification marks for 11 tissues, allowing for genome-wide, integratable data production. Then, we characterized somatic super-enhancer landscapes. (Need to write and edit) <br>
+&nbsp;We deciphered the dog’s epigenetic code by defining distinct 13-chromatin state model based on five histone modification marks for 11 tissues, allowing for genome-wide, integratable data production. Then, we characterized somatic super-enhancer landscapes. (Need to write and edit) <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751730-c2f1ad14-a5f7-4d4c-a861-764d6dfbb251.jpg" width="250"><br>
 <img src="https://user-images.githubusercontent.com/43947916/177108534-54b168a3-280b-49d2-8bc8-a33286eb2c8c.jpg" width="250">
 
@@ -70,7 +70,7 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 
 
 ### 5. Common and tissue-specific differentially methylated regions
- Methylation of cytosines in DNA is a prototypic, stable, nearly universal mechanism of the mammalian epigenome. In domestic dogs, DNA methylation studies have been performed yet still lack epigenome-scale resolution. So far, public resources of functionally annotated dog genomes (i.e., BarkBase and DoGA) do not include methylome data. To profile global DNA methylome landscape of the dog, we performed genome-wide MBD-seq experiments on 11 somatic tissues. In these experiments, captured and enriched genomic DNA fragments covering a CpG are used to assay the total amount of methylation for a locus about the size of the fragments, which dictate the resolution of association signals.<br>
+&nbsp;Methylation of cytosines in DNA is a prototypic, stable, nearly universal mechanism of the mammalian epigenome. In domestic dogs, DNA methylation studies have been performed yet still lack epigenome-scale resolution. So far, public resources of functionally annotated dog genomes (i.e., BarkBase and DoGA) do not include methylome data. To profile global DNA methylome landscape of the dog, we performed genome-wide MBD-seq experiments on 11 somatic tissues. In these experiments, captured and enriched genomic DNA fragments covering a CpG are used to assay the total amount of methylation for a locus about the size of the fragments, which dictate the resolution of association signals.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
 
 Download: [Location of CMRs and tsDMRs](https://drive.google.com/drive/folders/1fPqttRt1x6f8RDYpmr8edwPoZyJF_fcv?usp=sharing)
