@@ -25,7 +25,7 @@ Data repository: https://www.ncbi.nlm.nih.gov/geo/<br>
 Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to slow speed)<br><br>
 
 ## Processed data repository
-### RNA contigs
+### 1. RNA contigs
  Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations.
 
 Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bSKZrqk5fKa3UfP8JQ?usp=sharing)<br>
@@ -35,8 +35,8 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bS
 
 
 
-### Comparative inter-tissue transcriptomics
-<img src="(https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="400">
+### 2. Comparative inter-tissue transcriptomics
+<img src="https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="600">
 
 Download: [Categorized gene lists](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
 #### Reference:
@@ -45,9 +45,9 @@ Download: [Categorized gene lists](https://drive.google.com/drive/folders/11QTuD
 
 
 
-### Conserved tissue-specific and species-specific genes
+### 3. Conserved tissue-specific and species-specific genes
 -- (Need to write) <br>
-<img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="600">
 
 Download: [Conserved gene lists](--)<br>
 #### Reference:
@@ -56,7 +56,7 @@ Download: [Conserved gene lists](--)<br>
 
 
 
-### Chromatin states & Super-enhancer (SE)
+### 4. Chromatin states & Super-enhancer (SE)
  We deciphered the dog’s epigenetic code by defining distinct 13-chromatin state model based on five histone modification marks for 11 tissues, allowing for genome-wide, integratable data production. Then, we characterized somatic super-enhancer landscapes. (Need to write and edit) <br>
 <img src="https://user-images.githubusercontent.com/108702438/177751730-c2f1ad14-a5f7-4d4c-a861-764d6dfbb251.jpg" width="250"><br>
 <img src="https://user-images.githubusercontent.com/43947916/177108534-54b168a3-280b-49d2-8bc8-a33286eb2c8c.jpg" width="250">
@@ -69,8 +69,8 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 
 
 
-### Common and tissue-specific differentially methylated regions
+### 5. Common and tissue-specific differentially methylated regions
 -- (Need to write)  <br>
-<img src="(https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
 #### Reference:
 - --<br><br>
