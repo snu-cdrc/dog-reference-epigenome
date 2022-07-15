@@ -36,7 +36,7 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bS
 
 
 ### Comparative inter-tissue transcriptomics
- --
+<img src="(https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="400">
 
 Download: [Categorized gene lists](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
 #### Reference:
@@ -71,19 +71,6 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 
 ### Common and tissue-specific differentially methylated regions
 -- (Need to write)  <br>
-<img src="--" width="300">
+<img src="(https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
 #### Reference:
 - --<br><br>
-
-
-
-### SE domain classification and linking with gene
--- (Need to write)  <br>
-<img src="https://user-images.githubusercontent.com/108702438/177751763-ebd9a6ff-5990-468b-8ec1-a0c962e5af31.jpg" width="300">
-
-Download: [SE domain-related table](https://github.com/KHworks/dog-reference-epigenome/blob/main/Scripts/Figure%206A_SE-to-gene_linking.py)<br>
-#### Reference:
-- The chromatin accessibility landscape of primary human cancers, Science, 2018<br><br>
-
-Download: [SE domain-related table](--)<br>
-
