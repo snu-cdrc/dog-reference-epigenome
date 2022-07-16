@@ -2,7 +2,7 @@
 
 ### Integrative mapping of the dog epigenome: reference annotation for comparative inter-tissue and cross-species studies
 
-Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum Nam<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,3</sup>, Jeong-Woon Lee<sup>1,2,3</sup>, Kyung-Ju Shin<sup>1,3</sup>, Su-Jin Jeong<sup>1,2,3</sup>, Keunsoo Kang<sup>4</sup>, and Je-Yoel Cho<sup>1,2,3*</sup>
+Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum Nam<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,3</sup>, Jeong-Woon Lee<sup>1,2,3</sup>, Kyung-Ju Shin<sup>1,3</sup>, Keunsoo Kang<sup>4</sup>, and Je-Yoel Cho<sup>1,2,3*</sup>
 
 <sup>1</sup> Department of Biochemistry, College of Veterinary Medicine, Seoul National University, Seoul, Korea<br>
 <sup>2</sup> Comparative Medicine and Disease Research Center (CDRC), Science Research Center (SRC), Seoul National University, Seoul, Korea<br>
