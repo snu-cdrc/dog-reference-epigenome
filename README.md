@@ -58,7 +58,7 @@ Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1yt
 
 ### 4. Chromatin states
 &nbsp;To advance the functional annotation of the dog genome, we produced integrated maps of histone modifications-informed, genome-wide 13-chromatin state model in 11 dog tissues. We defined the dog genome as having a core set of five histone H3 modification marks: H3K4me3, H3K4me1, H3K27ac, H3K27me3, and H3K9me3—marks well-known to have specific depositions on particular genomic regions and molecular signal associations (i.e., promoters, enhancers, heterochromatin, Polycomb repressive domains, etc).<br>
-<img src="https://user-images.githubusercontent.com/108702438/177751730-c2f1ad14-a5f7-4d4c-a861-764d6dfbb251.jpg" width="300"><br>
+<img src="https://user-images.githubusercontent.com/108702438/179326386-5e1ea129-0e0c-4c05-a238-984e3d2ef548.jpg" width="300"><br>
 <img src="https://user-images.githubusercontent.com/43947916/177108534-54b168a3-280b-49d2-8bc8-a33286eb2c8c.jpg" width="300">
 
 Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f8RDYpmr8edwPoZyJF_fcv?usp=sharing)<br>
@@ -70,7 +70,7 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 
 ### 5. Super-enhancer (SE)
 We characterized somatic super-enhancer landscapes.<br>
-<img src="https://user-images.githubusercontent.com/108702438/177751730-c2f1ad14-a5f7-4d4c-a861-764d6dfbb251.jpg" width="300"><br>
+<img src="https://user-images.githubusercontent.com/108702438/179326388-c5e39a80-42c8-4034-9d8c-ce040ed304be.jpg" width="300"><br>
 
 Download: [Super enhancer](https://drive.google.com/drive/folders/1QiNmxW5-nTLRVk8JXh3TNrpKkxzlxOpb?usp=sharing)<br>
 #### Reference:
