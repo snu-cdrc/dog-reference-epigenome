@@ -37,6 +37,11 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bS
 
 ### 2. Comparative inter-tissue transcriptomics
 &nbsp;<br>
+
+To comprehensively profile the transcriptome of genic regions in the dog genome, we performed RNA-seq experiments in 11 dog tissues with two biological replicates each 
+To deconvolute this transcript abundance, we functionally characterized the inter-tissue coding transcriptomes of the dog. We classified the pool of expressed genes according to their tissue-specificity
+
+
 <img src="https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="600">
 
 Download: [Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
