@@ -69,7 +69,7 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 
 
 ### 5. Super-enhancer (SE)
-We characterized somatic super-enhancer landscapes.<br>
+&nbsp;To further probe tissue identity and function based on H3K27ac signals, a strong indicator of active promoter and enhancer states, we characterized super-enhancers (SEs) landscapes in the dog genome across multiple tissues.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179326388-c5e39a80-42c8-4034-9d8c-ce040ed304be.jpg" width="300"><br>
 
 Download: [Super enhancer](https://drive.google.com/drive/folders/1QiNmxW5-nTLRVk8JXh3TNrpKkxzlxOpb?usp=sharing)<br>
