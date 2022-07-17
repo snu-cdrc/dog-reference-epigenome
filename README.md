@@ -88,6 +88,6 @@ Download: [Super enhancer](https://drive.google.com/drive/folders/1QiNmxW5-nTLRV
 &nbsp;Methylation of cytosines in DNA is a prototypic, stable, nearly universal mechanism of the mammalian epigenome. In domestic dogs, DNA methylation studies have been performed yet still lack epigenome-scale resolution. So far, public resources of functionally annotated dog genomes (i.e., BarkBase and DoGA) do not include methylome data. To profile global DNA methylome landscape of the dog, we performed genome-wide MBD-seq experiments on 11 somatic tissues. In these experiments, captured and enriched genomic DNA fragments covering a CpG are used to assay the total amount of methylation for a locus about the size of the fragments, which dictate the resolution of association signals.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
 
-Download: [Location of CMRs and tsDMRs](https://drive.google.com/drive/folders/1fPqttRt1x6f8RDYpmr8edwPoZyJF_fcv?usp=sharing)
+Download: [Location of CMRs and tsDMRs](https://drive.google.com/drive/folders/106a95qTG8qN84Jp8FyQGq9dkxK1vMoYH?usp=sharing)
 #### Reference:
 - MethylAction: detecting differentially methylated regions that distinguish biological subtypes, Nucleic Acids Res., 2016<br><br>
