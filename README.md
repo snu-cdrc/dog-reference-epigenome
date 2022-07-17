@@ -22,7 +22,7 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 ## Manuscript and Data availability
 Paper (bioRxiv): https://www.biorxiv.org/<br>
 Data repository: https://www.ncbi.nlm.nih.gov/geo/<br>
-Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to slow speed)<br><br>
+Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to slow speed and problem related with SSL certificate in server)<br><br>
 
 ## Processed data repository
 ### 1. RNA contigs
