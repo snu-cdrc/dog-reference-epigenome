@@ -17,7 +17,7 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 
 &nbsp;The domestic dog has become a valuable model in exploring multifaceted diseases and biology important for human health. Large-scale dog genome projects produced high-quality draft references but still lack comprehensive annotation of encoded functional elements. Through the integrative next generation sequencing of transcriptomes and chromatin accessibility paired with DNA methylome profiling of 11 adult tissue types, implemented in a cross-species approach, we generated a reference epigenome of a domesticated dog. Using genome orthologues and synthenies, we deciphered the dog’s epigenetic code by defining distinct chromatin states, allowing for genome-wide, integratable data production. We then characterized somatic super-enhancer landscapes and showed that genes mapped on these regions are associated with a broad range of biological and disease traits and are traceable to their tissue-of-origin. Ultimately, we delineated conserved epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog for comparative biology and medical research.
 
-<img src="https://user-images.githubusercontent.com/108702438/177751721-feda7f4b-272d-4750-9208-ac72c187cdb7.jpg" width="700">
+<img src="https://user-images.githubusercontent.com/108702438/180374875-61f24e55-a062-444e-9b27-5ec9e88e152e.jpg" width="700">
 
 ## Manuscript and Data availability
 Paper (bioRxiv): https://www.biorxiv.org/<br>
