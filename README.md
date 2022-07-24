@@ -28,7 +28,7 @@ Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-referenc
 ### 1. RNA contigs
 &nbsp;Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations. Strand-specific contig regions were defined using 11 tissues RNA-seq data through the approach described by Djebali et al.
 
-Download: [RNA_Contigs](https://drive.google.com/drive/folders/12KZDZdcLhrkwY-bSKZrqk5fKa3UfP8JQ?usp=sharing)<br>
+Download: [RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7L2lGbicsTpQJOJNi?usp=sharing)<br>
 #### Reference:
 - A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
 - Landscape of transcription in human cells, Nature, 2012<br><br>
@@ -72,7 +72,7 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 &nbsp;To further probe tissue identity and function based on H3K27ac signals, a strong indicator of active promoter and enhancer states, we characterized super-enhancers (SEs) landscapes in the dog genome across multiple tissues.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179326388-c5e39a80-42c8-4034-9d8c-ce040ed304be.jpg" width="300"><br>
 
-Download: [Super enhancer](https://drive.google.com/drive/folders/1QiNmxW5-nTLRVk8JXh3TNrpKkxzlxOpb?usp=sharing)<br>
+Download: [Super enhancer](https://drive.google.com/drive/folders/1DPk7Z39NHW1TTFaNz1Qief1taOxyDhbu?usp=sharing)<br>
 #### Reference:
 - Master Transcription Factors and Mediator Establish Super-Enhancers at Key Cell Identity Genes, Cell, 2013
 - Selective Inhibition of Tumor Oncogenes by Disruption of Super-enhancers, Cell, 2013<br>
