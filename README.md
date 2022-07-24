@@ -46,7 +46,7 @@ Download: [Categorized genes according to tissue specificity](https://drive.goog
 
 
 ### 3. Conserved tissue-specific and species-specific genes
-&nbsp;<br>
+&nbsp;Based on the expression of 12,551 protein-coding orthologs across human, mouse and dog, we estimated the expression divergence between these species and their matched nine tissues (ENCODE and our dataset).<br>
 <img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="600">
 
 Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1ytLAoulALwxpQ3cFyFstP7vBWlR?usp=sharing)<br>
