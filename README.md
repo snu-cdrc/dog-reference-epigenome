@@ -26,7 +26,7 @@ Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-referenc
 
 ## Processed data repository
 ### 1. RNA contigs
-&nbsp;Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations. Strand-specific contig regions were defined using 11 tissues RNA-seq data through the approach described by Djebali et al.
+&nbsp;Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations. To comprehensively profile the transcriptome of genic regions in the dog genome, we performed RNA-seq experiments in 11 dog tissues with two biological replicates each. Strand-specific contig regions were defined using 11 tissues RNA-seq data through the approach described by Djebali et al.
 
 Download: [RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7L2lGbicsTpQJOJNi?usp=sharing)<br>
 #### Reference:
@@ -36,7 +36,7 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7
 
 
 ### 2. Comparative inter-tissue transcriptomics
-&nbsp;<br>
+&nbsp;To deconvolute this transcript abundance, we functionally characterized the inter-tissue coding transcriptomes of the dog. We classified the pool of expressed genes according to their tissue-specificity.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="600">
 
 Download: [Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
