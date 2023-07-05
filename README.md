@@ -17,7 +17,7 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 
 &nbsp;Dogs have become a valuable model in exploring multifaceted diseases and biology relevant to human health. Despite large-scale dog genome projects producing high-quality draft references, a comprehensive annotation of functional elements is still lacking. We addressed this through integrative next-generation sequencing of transcriptomes paired with five histone marks and DNA methylome profiling across 11 tissue types, deciphering the dog’s epigenetic code by defining distinct chromatin states, super-enhancer and methylome landscapes, and thus showed that these regions are associated with a wide range of biological functions and cell/tissue identity. In addition, we confirmed that the phenotype-associated variants are enriched in tissue-specific regulatory regions and, therefore, the tissue of origin of the variants can be traced. Ultimately, we delineated conserved and dynamic epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog that can be used for comparative biology and medical research.
 
-<img src="https://user-images.githubusercontent.com/108702438/180374875-61f24e55-a062-444e-9b27-5ec9e88e152e.jpg" width="700">
+<img src="https://user-images.githubusercontent.com/43947916/251185268-f898dedb-0d6b-4e6e-a4dc-77221f6a5ba3.jpg" width="700">
 
 ## Manuscript and Data availability
 Paper: [Science Advances]() / [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.22.501075v1) (preprint)</br>
@@ -37,7 +37,7 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7
 
 ### 2. Comparative inter-tissue transcriptomics
 &nbsp;To deconvolute this transcript abundance, we functionally characterized the inter-tissue coding transcriptomes of the dog. We classified the pool of expressed genes according to their tissue-specificity.<br>
-<img src="https://user-images.githubusercontent.com/108702438/179224395-4ff8743f-2a80-44a1-bde2-0776b7cc8ace.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/43947916/251185280-59e75da7-469b-4c15-af35-95eb79c425a8.jpg" width="600">
 
 Download: [Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
 #### Reference:
@@ -47,7 +47,7 @@ Download: [Categorized genes according to tissue specificity](https://drive.goog
 
 ### 3. Conserved tissue-specific and species-specific genes
 &nbsp;Based on the expression of 12,551 protein-coding orthologs across human, mouse and dog, we estimated the expression divergence between these species and their matched nine tissues (ENCODE and our dataset).<br>
-<img src="https://user-images.githubusercontent.com/108702438/177751739-30a13ea6-87ac-4e0f-b260-910bbe31fec3.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/43947916/251185301-107cff30-e903-48eb-9aa5-f2df248d7d7a.jpg" width="600">
 
 Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1ytLAoulALwxpQ3cFyFstP7vBWlR?usp=sharing)<br>
 #### Reference:
