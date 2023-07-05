@@ -12,7 +12,7 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 <sup>†</sup> These authors contributed equally to this work as co-first authors: newhong@snu.ac.kr, borris@snu.ac.kr and arbjlvz@snu.ac.kr<br>
 <sup>*</sup> Corresponding author: jeycho@snu.ac.kr<br>
 
-Webpage: <strong>[Keun Hong Son](https://keun-hong.github.io/), [Mark Borris Aldonza](https://sites.google.com/view/borrisaldonza/), [Cho Lab](https://vetbio.snu.ac.kr)</strong></br>
+Webpage: <strong>[Keun Hong Son](https://keun-hong.github.io/), [Mark Borris Aldonza](https://sites.google.com/view/borrisaldonza/), [Cho Lab](https://vetbio.snu.ac.kr)</strong><br>
 <img src="https://user-images.githubusercontent.com/108702438/179219246-b79c13cb-7ca7-4de0-a1e1-56211ad574e8.jpg" width="700"><br>
 
 ## Introduction
