@@ -20,8 +20,7 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 <img src="https://user-images.githubusercontent.com/108702438/180374875-61f24e55-a062-444e-9b27-5ec9e88e152e.jpg" width="700">
 
 ## Manuscript and Data availability
-Paper: [Science Advances]()</br>
-Paper (preprint): [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.22.501075v1)<br>
+Paper: [Science Advances]() / [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.22.501075v1) (preprint)</br>
 Data repository: [Acession: GSE203107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203107) (Updated: 2307--)<br>
 Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to SSL certificate problem in server)<br><br>
 
