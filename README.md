@@ -31,7 +31,7 @@ Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-referenc
 ### 1. RNA contigs
 &nbsp;Transcript contig means the region of the transcript covered by RNA-seq. Therefore, it is possible to study known and novel positions where transcripts are expressed without dependency on genome annotations. To comprehensively profile the transcriptome of genic regions in the dog genome, we performed RNA-seq experiments in 11 dog tissues with two biological replicates each. Strand-specific contig regions were defined using 11 tissues RNA-seq data through the approach described by Djebali et al.
 
-Download: [RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7L2lGbicsTpQJOJNi?usp=sharing)<br>
+Download: <strong>[RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7L2lGbicsTpQJOJNi?usp=sharing)</strong><br>
 #### Reference:
 - A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
 - Landscape of transcription in human cells, Nature, 2012<br><br>
@@ -42,7 +42,7 @@ Download: [RNA_Contigs](https://drive.google.com/drive/folders/1h362ZtVfhkabvMF7
 &nbsp;To deconvolute this transcript abundance, we functionally characterized the inter-tissue coding transcriptomes of the dog. We classified the pool of expressed genes according to their tissue-specificity.<br>
 <img src="https://user-images.githubusercontent.com/43947916/251185280-59e75da7-469b-4c15-af35-95eb79c425a8.jpg" width="600">
 
-Download: [Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)<br>
+Download: <strong>[Categorized genes according to tissue specificity](https://drive.google.com/drive/folders/11QTuDknYqQmk_rjDw50PXp0VJN_TetEJ?usp=sharing)</strong><br>
 #### Reference:
 - Tissue-based map of the human proteome, Science, 2015<br><br>
 
@@ -52,7 +52,7 @@ Download: [Categorized genes according to tissue specificity](https://drive.goog
 &nbsp;Based on the expression of 12,551 protein-coding orthologs across human, mouse and dog, we estimated the expression divergence between these species and their matched nine tissues (ENCODE and our dataset).<br>
 <img src="https://user-images.githubusercontent.com/43947916/251185301-107cff30-e903-48eb-9aa5-f2df248d7d7a.jpg" width="600">
 
-Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1ytLAoulALwxpQ3cFyFstP7vBWlR?usp=sharing)<br>
+Download: <strong>[Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1ytLAoulALwxpQ3cFyFstP7vBWlR?usp=sharing)</strong><br>
 #### Reference:
 - A comparative encyclopedia of DNA elements in the mouse genome, Nature, 2014
 - Comparative transcriptomics in human and mouse, Nature Reviews Genetics, 2017<br><br>
@@ -64,7 +64,9 @@ Download: [Conserved gene lists](https://drive.google.com/drive/folders/1w6Fh1yt
 <img src="https://user-images.githubusercontent.com/108702438/179326386-5e1ea129-0e0c-4c05-a238-984e3d2ef548.jpg" width="300"><br>
 <img src="https://user-images.githubusercontent.com/43947916/177108534-54b168a3-280b-49d2-8bc8-a33286eb2c8c.jpg" width="300">
 
-Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f8RDYpmr8edwPoZyJF_fcv?usp=sharing)<br>
+Download: <strong>Chromatin states [canFam3.1](https://drive.google.com/drive/folders/1fPqttRt1x6f8RDYpmr8edwPoZyJF_fcv?usp=sharing)</strong><br>
+canFam3.1 to others using LiftOver: <strong>[canFam4](), [canFam5](), [canFam6]()</strong><br>
+
 #### Reference:
 - ChromHMM: automating chromatin-state discovery and characterization, Nature methods, 2012
 - Integrative analysis of 111 reference human epigenomes, Nature, 2015<br>
@@ -75,7 +77,7 @@ Download: [Chromatin states](https://drive.google.com/drive/folders/1fPqttRt1x6f
 &nbsp;To further probe tissue identity and function based on H3K27ac signals, a strong indicator of active promoter and enhancer states, we characterized super-enhancers (SEs) landscapes in the dog genome across multiple tissues.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179326388-c5e39a80-42c8-4034-9d8c-ce040ed304be.jpg" width="300"><br>
 
-Download: [Super enhancer](https://drive.google.com/drive/folders/1DPk7Z39NHW1TTFaNz1Qief1taOxyDhbu?usp=sharing)<br>
+Download: <strong>[Super enhancer](https://drive.google.com/drive/folders/1DPk7Z39NHW1TTFaNz1Qief1taOxyDhbu?usp=sharing)</strong><br>
 #### Reference:
 - Master Transcription Factors and Mediator Establish Super-Enhancers at Key Cell Identity Genes, Cell, 2013
 - Selective Inhibition of Tumor Oncogenes by Disruption of Super-enhancers, Cell, 2013<br>
@@ -86,7 +88,7 @@ Download: [Super enhancer](https://drive.google.com/drive/folders/1DPk7Z39NHW1TT
 &nbsp;Methylation of cytosines in DNA is a prototypic, stable, nearly universal mechanism of the mammalian epigenome. In domestic dogs, DNA methylation studies have been performed yet still lack epigenome-scale resolution. So far, public resources of functionally annotated dog genomes (i.e., BarkBase and DoGA) do not include methylome data. To profile global DNA methylome landscape of the dog, we performed genome-wide MBD-seq experiments on 11 somatic tissues. In these experiments, captured and enriched genomic DNA fragments covering a CpG are used to assay the total amount of methylation for a locus about the size of the fragments, which dictate the resolution of association signals.<br>
 <img src="https://user-images.githubusercontent.com/108702438/179228475-55caeda4-d3af-40c1-9ef2-fef25a8e33dc.jpg" width="400">
 
-Download: [Location of CMRs and tsDMRs](https://drive.google.com/drive/folders/106a95qTG8qN84Jp8FyQGq9dkxK1vMoYH?usp=sharing)
+Download: <strong>[Location of CMRs and tsDMRs](https://drive.google.com/drive/folders/106a95qTG8qN84Jp8FyQGq9dkxK1vMoYH?usp=sharing)</strong>
 #### Reference:
 - MethylAction: detecting differentially methylated regions that distinguish biological subtypes, Nucleic Acids Res., 2016<br><br>
 
