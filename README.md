@@ -1,6 +1,6 @@
 # EpiC Dog: Epigenome Catalog of the Dog
 
-### Integrative mapping of the dog epigenome: reference annotation for comparative inter-tissue and cross-species studies
+### Integrative mapping of the dog epigenome: reference annotation for comparative intertissue and cross-species studies
 
 Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum Nam<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,3</sup>, Jeong-Woon Lee<sup>1,2,3</sup>, Kyung-Ju Shin<sup>1,3</sup>, Keunsoo Kang<sup>4</sup>, and Je-Yoel Cho<sup>1,2,3*</sup>
 
@@ -15,13 +15,14 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 
 ## Introduction
 
-&nbsp;The domestic dog has become a valuable model in exploring multifaceted diseases and biology important for human health. Large-scale dog genome projects produced high-quality draft references but still lack comprehensive annotation of encoded functional elements. Through the integrative next generation sequencing of transcriptomes and chromatin accessibility paired with DNA methylome profiling of 11 adult tissue types, implemented in a cross-species approach, we generated a reference epigenome of a domesticated dog. Using genome orthologues and synthenies, we deciphered the dog’s epigenetic code by defining distinct chromatin states, allowing for genome-wide, integratable data production. We then characterized somatic super-enhancer landscapes and showed that genes mapped on these regions are associated with a broad range of biological and disease traits and are traceable to their tissue-of-origin. Ultimately, we delineated conserved epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog for comparative biology and medical research.
+&nbsp;Dogs have become a valuable model in exploring multifaceted diseases and biology relevant to human health. Despite large-scale dog genome projects producing high-quality draft references, a comprehensive annotation of functional elements is still lacking. We addressed this through integrative next-generation sequencing of transcriptomes paired with five histone marks and DNA methylome profiling across 11 tissue types, deciphering the dog’s epigenetic code by defining distinct chromatin states, super-enhancer and methylome landscapes, and thus showed that these regions are associated with a wide range of biological functions and cell/tissue identity. In addition, we confirmed that the phenotype-associated variants are enriched in tissue-specific regulatory regions and, therefore, the tissue of origin of the variants can be traced. Ultimately, we delineated conserved and dynamic epigenomic changes at the tissue- and species-specific resolutions. Our study provides an epigenomic blueprint of the dog that can be used for comparative biology and medical research.
 
 <img src="https://user-images.githubusercontent.com/108702438/180374875-61f24e55-a062-444e-9b27-5ec9e88e152e.jpg" width="700">
 
 ## Manuscript and Data availability
+Paper: [Science Advances]()</br>
 Paper (preprint): [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.22.501075v1)<br>
-Data repository: [Acession: GSE203107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203107) (Openning soon)<br>
+Data repository: [Acession: GSE203107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203107) (Updated: 2307--)<br>
 Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to SSL certificate problem in server)<br><br>
 
 ## Processed data repository
