@@ -23,8 +23,8 @@ Webpage: <strong>[Keun Hong Son](https://keun-hong.github.io/), [Mark Borris Ald
 <img src="https://user-images.githubusercontent.com/43947916/251185268-f898dedb-0d6b-4e6e-a4dc-77221f6a5ba3.jpg" width="700">
 
 ## Manuscript and Data availability
-Paper: <strong>[Science Advances]()</strong> / [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.22.501075v1) (preprint)</br>
-Data repository: [Acession: GSE203107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203107) (Updated: 2307--)<br>
+Paper: <strong>[Science Advances](https://www.science.org/doi/10.1126/sciadv.ade3399)</strong></br>
+Data repository: [Acession: GSE203107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203107) (Updated: 230711)<br>
 Data browser: [the UCSC_trackhub](http://genome.ucsc.edu/s/snu-cdrc/dog-reference-epigenome) (Optimizing due to SSL certificate problem in server)<br><br>
 
 ## Processed data repository
