@@ -2,7 +2,7 @@
 
 ### Integrative mapping of the dog epigenome: reference annotation for comparative intertissue and cross-species studies
 
-Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum Nam<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,3</sup>, Jeong-Woon Lee<sup>1,2,3</sup>, Kyung-Ju Shin<sup>1,3</sup>, Keunsoo Kang<sup>4</sup>, and Je-Yoel Cho<sup>1,2,3*</sup>
+[**Keun Hong Son**](https://keun-hong.github.io/)<sup>1,2,3†</sup>, [**Mark Borris Aldonza**](https://sites.google.com/view/borrisaldonza/)<sup>1,2,3†</sup>, A-reum Nam<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,3</sup>, Jeong-Woon Lee<sup>1,2,3</sup>, Kyung-Ju Shin<sup>1,3</sup>, Keunsoo Kang<sup>4</sup>, and [**Je-Yoel Cho**](https://vetbio.snu.ac.kr)<sup>1,2,3*</sup>
 
 <sup>1</sup> Department of Biochemistry, College of Veterinary Medicine, Seoul National University, Seoul, Korea<br>
 <sup>2</sup> Comparative Medicine and Disease Research Center (CDRC), Science Research Center (SRC), Seoul National University, Seoul, Korea<br>
@@ -11,8 +11,6 @@ Keun Hong Son<sup>1,2,3†</sup>, Mark Borris Aldonza<sup>1,2,3†</sup>, A-reum
 
 <sup>†</sup> These authors contributed equally to this work as co-first authors: newhong@snu.ac.kr, borris@snu.ac.kr and arbjlvz@snu.ac.kr<br>
 <sup>*</sup> Corresponding author: jeycho@snu.ac.kr<br>
-
-Webpage: <strong>[Keun Hong Son](https://keun-hong.github.io/), [Mark Borris Aldonza](https://sites.google.com/view/borrisaldonza/), [Cho Lab](https://vetbio.snu.ac.kr)</strong><br><br>
 
 <img src="https://user-images.githubusercontent.com/108702438/179219246-b79c13cb-7ca7-4de0-a1e1-56211ad574e8.jpg" width="700"><br>
 
