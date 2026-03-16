@@ -24,7 +24,7 @@
 
 Paper: <strong>[Science Advances](https://www.science.org/doi/10.1126/sciadv.ade3399)</strong></br>
 Data repository: [Acession: GSE203107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203107) (Updated: 230711)<br>
-Data browser: [the UCSC_trackhub](https://genome.ucsc.edu/s/keunhong/dog-reference-epigenom)<br><br>
+Data browser: [the UCSC_trackhub](https://genome.ucsc.edu/s/keunhong/dog-reference-epigenome)<br><br>
 
 ## Processed data repository
 
